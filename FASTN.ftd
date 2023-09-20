@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: <Nayif-10>.github.io/<fastnfoliotemp>
-favicon: /-/<Nayif-10>.github.io/<fastnfoliotemp>/favicon.ico
+-- fastn.package: Nayif-10.github.io/fastnfoliotemp
+favicon: /-/Nayif-10.github.io/fastnfoliotemp/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
